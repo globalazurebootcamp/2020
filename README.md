@@ -7,28 +7,22 @@
 * 09:00 a. m. — 60 min
   * Bienvenida - Keynote - [Juan Caraballo](https://www.linkedin.com/in/juancaraballo/)
 
-
 * 10:00 a. m. — 60 min
   * Serverless con Azure Functions [PPT](https:)
   * [José Saturnino Pimentel Juárez](https://www.linkedin.com/in/saturninopimentel/)
 
-
-
 * 11:00 a. m. — 60 min
   * Microsoft Endpoint Manager Microsoft Intune Introduccion[PPT](https:)
   * [Jesus Octavio Rodriguez de Santiago](https://www.linkedin.com/in/octaviordz/)
-
 
 * 12:00 p. m. — 60 min
   * Containers & Kubernetes en Azure [PPT](https:)
   * [Dave Rendón](https://www.linkedin.com/in/daverndn)
   * [Omar Aviles](https://linkedin.com/in/oaviles)
 
-
 * 01:00 p. m. — 60 min
   * Azure Cloud Waste, ¿Cómo optimizo mis gastos de Nube Pública? [PPT](https:)
   * [Christian Romano](http://mx.linkedin.com/pub/christian-romano/22/894/a88/)
-
 
 * 02:00 p. m. — 60 min
   * Implement a Data Warehouse with Azure Synapse Analytics [PPT](https:)
@@ -49,8 +43,8 @@ Thanks goes to these wonderful people 👏:
     <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/saturnino.jpg" width="100px;" alt="José Saturnino Pimentel Juárez"/><br />
         <sub><b>José Saturnino Pimentel Juárez</b></sub></a><br />
-            <a href="https://www.linkedin.com/in/saturninopimentel/" title="talk>📖</a>
-            <a href="" title="design"></a> 
+            <a href="https://www.linkedin.com/in/saturninopimentel/" title="talk">📖</a>
+             <a href="htt" title="Documentation"></a>  
     </td>
   <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/octavio.jpg" width="100px;" alt="Jesus Octavio Rodriguez de Santiago"/><br />
