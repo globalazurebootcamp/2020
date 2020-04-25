@@ -49,14 +49,14 @@ Thanks goes to these wonderful people 👏:
     <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/saturnino.jpg" width="100px;" alt="José Saturnino Pimentel Juárez"/><br />
         <sub><b>José Saturnino Pimentel Juárez</b></sub></a><br />
-            <a href="https://www.linkedin.com/in/saturninopimentel/" title="talk📖</a>
-            <a href="" title="design">📖</a> 
+            <a href="https://www.linkedin.com/in/saturninopimentel/" title="talk>📖</a>
+            <a href="" title="design"></a> 
     </td>
   <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/octavio.jpg" width="100px;" alt="Jesus Octavio Rodriguez de Santiago"/><br />
         <sub><b>Jesus Octavio Rodriguez de Santiago</b></sub></a><br />
             <a href="https://www.linkedin.com/in/octaviordz/" title="talk">📖</a>
-            <a href="" title="Documentation">📖</a> 
+            <a href="" title="Documentation"></a> 
     </td>
   </tr>
   <tr>
@@ -64,13 +64,13 @@ Thanks goes to these wonderful people 👏:
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/daverend.jpg" width="100px;" alt="Dave Rendón"/><br />
         <sub><b>Dave Rendón</b></sub></a><br />
             <a href="https://www.linkedin.com/in/daverndn" title="talk">📖</a>
-            <a href="" title="Documentation">📖</a> 
+            <a href="" title="Documentation"></a> 
     </td>
   <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/omaraviles.jpg" width="100px;" alt="Omar Avilés"/><br />
         <sub><b>Omar Avilés</b></sub></a><br />
             <a href="https://www.linkedin.com/in/oaviles" title="talk">📖</a>
-            <a href="htt" title="Documentation">📖</a> 
+            <a href="htt" title="Documentation"></a> 
     </td>
     </tr>
   <tr>
@@ -78,19 +78,19 @@ Thanks goes to these wonderful people 👏:
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/romano.jpg" width="100px;" alt="Christian Romano"/><br />
         <sub><b>Christian Romano</b></sub></a><br />
             <a href="http://mx.linkedin.com/pub/christian-romano/22/894/a88/" title="talk">📖</a>
-            <a href="" title="Documentation">📖</a> 
+            <a href="" title="Documentation"></a> 
     </td>
   <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/jesus.jpg" width="100px;" alt="Jesus Gil"/><br />
         <sub><b>Jesús Gil</b></sub></a><br />
             <a href="http://mx.linkedin.com/in/jesusgilv/" title="talk">📖</a>
-            <a href="" title="Documentation">📖</a> 
+            <a href="" title="Documentation"></a> 
     </td>
     <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/alex.jpg" width="100px;" alt="Alejandro García"/><br />
         <sub><b>Alejandro García</b></sub></a><br />
             <a href="https://www.linkedin.com/in/alegamx/" title="talk">📖</a>
-            <a href="" title="Documentation">📖</a> 
+            <a href="" title="Documentation"></a> 
     </td>
 </tr></table>
 
