@@ -78,7 +78,7 @@ Thanks goes to these wonderful people 👏:
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/jesus.jpg" width="100px;" alt="Jesus Gil"/><br />
         <sub><b>Jesús Gil</b></sub></a><br />
             <a href="http://mx.linkedin.com/in/jesusgilv/" title="talk">📖</a>
-            <a href="https://youtu.be/FFCEO5_z0w0" title="Documentation"></a> 
+            <a href="" title="Documentation"></a> 
     </td>
     <td align="center"><a href="">
         <img src="https://github.com/globalazurebootcamp/2020/blob/master/images/alex.jpg" width="100px;" alt="Alejandro García"/><br />
