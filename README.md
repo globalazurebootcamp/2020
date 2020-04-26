@@ -30,7 +30,7 @@ Website: https://globalazure.mx
   * Implement a Data Warehouse with Azure Synapse Analytics [PPT](https://github.com/globalazurebootcamp/2020/blob/master/presentations/GlobalAzure2020-Implement%20a%20Data%20Warehouse%20with%20Azure%20Synapse%20Analytics.pdf)
   * [Jesus Gil](https://www.linkedin.com/in/jesusgilv/)
 
-## 👨‍💻 Presenters
+## 👨‍💻 Team
 
 Thanks goes to these wonderful people 👏:
 
