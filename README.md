@@ -1,10 +1,10 @@
-# Global Azure 2020 Mexico (Virtual)
+# ☁️ Global Azure 2020 Mexico (Virtual)
 
 Website: https://globalazure.mx
 
 ## Sábado, 25/04/2020
 
-## Agenda
+## 📅 Agenda
 
 * 09:00 a. m. — 60 min
   * Bienvenida - Keynote - [Juan Caraballo](https://www.linkedin.com/in/juancaraballo/)
@@ -30,7 +30,7 @@ Website: https://globalazure.mx
   * Implement a Data Warehouse with Azure Synapse Analytics [PPT](https://github.com/globalazurebootcamp/2020/blob/master/presentations/GlobalAzure2020-Implement%20a%20Data%20Warehouse%20with%20Azure%20Synapse%20Analytics.pdf)
   * [Jesus Gil](https://www.linkedin.com/in/jesusgilv/)
 
-## Presenters
+## 👨‍💻 Presenters
 
 Thanks goes to these wonderful people 👏:
 
@@ -89,4 +89,12 @@ Thanks goes to these wonderful people 👏:
             <a href="" title="Documentation"></a> 
     </td>
 </tr></table>
+
+## 📈 Performance Report
+
+| Registered | Attendance(Views as of April 25th, 2020) | Q/A | Actual Duration |
+| :---         |    :---     |        :---| :--- |
+| 202  | 249 (All streaming channels)    | 24   | 411 mins |
+
+### ⭐ Rating: 4.73 
 
