@@ -18,7 +18,7 @@ Website: https://globalazure.mx
   * [Jesus Octavio Rodriguez de Santiago](https://www.linkedin.com/in/octaviordz/)
 
 * 12:00 p. m. — 60 min
-  * Containers & Kubernetes en Azure [PPT](https://github.com/globalazurebootcamp/2020/blob/master/presentations/GlobalAzure2020-Implement%20a%20Data%20Warehouse%20with%20Azure%20Synapse%20Analytics.pdf)
+  * Containers & Kubernetes en Azure [PPT](https://github.com/globalazurebootcamp/2020/blob/master/presentations/Global-azure-2020-mexico-containers-kubernetes-omar-aviles-dave-rendon.pdf)
   * [Dave Rendón](https://www.linkedin.com/in/daverndn)
   * [Omar Aviles](https://linkedin.com/in/oaviles)
 
