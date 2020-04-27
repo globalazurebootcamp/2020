@@ -14,7 +14,7 @@ Website: https://globalazure.mx
   * [José Saturnino Pimentel Juárez](https://www.linkedin.com/in/saturninopimentel/)
 
 * 11:00 a. m. — 60 min
-  * Microsoft Endpoint Manager Microsoft Intune Introduccion[PPT](https:)
+  * Microsoft Endpoint Manager Microsoft Intune Introduccion[PPT](https://github.com/globalazurebootcamp/2020/blob/master/presentations/Introduccion%20a%20Microsoft%20Endpoint%20Manage%20Jesus%20Octavio%20Rodriguez%20de%20Santiago.pdf)
   * [Jesus Octavio Rodriguez de Santiago](https://www.linkedin.com/in/octaviordz/)
 
 * 12:00 p. m. — 60 min
