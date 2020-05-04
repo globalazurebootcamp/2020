@@ -10,7 +10,7 @@ Website: https://globalazure.mx
   * Bienvenida - Keynote - [Juan Caraballo](https://www.linkedin.com/in/juancaraballo/)
 
 * 10:00 a. m. — 60 min
-  * Serverless con Azure Functions [PPT](https:)
+  * Serverless con Azure Functions [PPT](https://github.com/globalazurebootcamp/2020/blob/master/presentations/GlobalAzure2020-Functions.pdf)
   * [José Saturnino Pimentel Juárez](https://www.linkedin.com/in/saturninopimentel/)
 
 * 11:00 a. m. — 60 min
